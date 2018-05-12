@@ -1,0 +1,25 @@
+_repo: Why-a-National-Literature-Cannot-Flourish-in-the-United-States-of-North-America_31777
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rocchietti, Joseph
+    gutenberg_agent_id: '35457'
+    url: http://www.gutenberg.org/2009/agents/35457
+description: ''
+gutenberg_issued: '2010-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31777'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Social life and customs'
+- !lcc 'PS'
+- !lcsh 'American literature'
+title: Why a National Literature Cannot Flourish in the United States of North America
+url: http://www.gutenberg.org/ebooks/31777
